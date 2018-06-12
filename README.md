@@ -4,7 +4,6 @@
 
 Simple example project used in teaching Git (contains errors).
 
-
 ## How to use this code
 
 (Hint: suffix is missing)
