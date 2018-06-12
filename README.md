@@ -11,14 +11,14 @@ Simple example project used in teaching Git (contains errors).
 
 Example usage:
 ```shell
-$ python example 1.0 2.0
+$ python example.py 1.0 2.0
 
 3.0
 ```
 
 Another example:
 ```shell
-$ python example 3.0 2.0
+$ python example.py 3.0 2.0
 
 5.0
 ```
